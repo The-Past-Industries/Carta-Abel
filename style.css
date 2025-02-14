@@ -113,6 +113,7 @@ h1 {
     height: 100%;
     line-height: 14px;
     cursor: pointer;
+    overflow-Y: scroll;
 }
 
 .corazon {
